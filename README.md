@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinrothenbuhleralarcon
 - 👀 I’m interested in Android and web developpement
-- 🌱 I’m currently learning NodeJs Javascript HTML CSS Mysql
+- 🌱 I’m currently learning Angular NodeJs Javascript HTML CSS Mysql
 - 📫 How to reach me www.linkedin.com/in/kevin-rothenbühler-alarcon-a882141a2
 
 <!---
